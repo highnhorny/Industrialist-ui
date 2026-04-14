@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/r0n9n/Industrialist/refs/heads/main/industrialist.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/highnhorny/Industrialist-ui/refs/heads/main/industrialist.txt"))()
